@@ -1,6 +1,6 @@
-﻿﻿# Git 
+# Git 
 
-É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo﻿.
+É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
 [Git Download](https://git-scm.com/downloads)
 
